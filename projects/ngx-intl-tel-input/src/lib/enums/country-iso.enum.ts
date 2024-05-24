@@ -51,7 +51,7 @@ export enum CountryISO {
 	CongoRepublicCongoBrazzaville = 'cg',
 	CookIslands = 'ck',
 	CostaRica = 'cr',
-	CôteDIvoire = 'ci',
+	CoteDIvoire = 'ci',
 	Croatia = 'hr',
 	Cuba = 'cu',
 	Curaçao = 'cw',

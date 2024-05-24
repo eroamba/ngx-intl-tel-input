@@ -309,7 +309,7 @@ export class CountryCode {
 		],
 		[
 			'Côte d’Ivoire',
-			CountryISO.CôteDIvoire,
+			CountryISO.CoteDIvoire,
 			'225'
 		],
 		[
